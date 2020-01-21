@@ -7,6 +7,7 @@ The repository contains all the codes used for the project *Analysis of the valu
 * Presentation: Final_Presentation.pdf
 
 ## Python files:
+Important note: this project uses the Pyhton API of CPLEX.
 * Bridge.py: main file to run.
  
 ### Rebalancing operations
@@ -17,4 +18,3 @@ The repository contains all the codes used for the project *Analysis of the valu
 * randomScenarioX.mat: random simulation scenarios
 * DistanceMatrix.xlsx: distance matrix of the network
 * basicConfiguration.py, eventsPlotterV2.py, NewEvent.py, UpdatedEventList.py: files to run the simulation
-
