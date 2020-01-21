@@ -7,7 +7,7 @@ The repository contains all the codes used for the project *Analysis of the valu
 * Presentation: Final_Presentation.pdf
 
 ## Python files:
-Important note: this project uses the Pyhton API of CPLEX.
+Important note: this project uses the Python API of CPLEX.
 * Bridge.py: main file to run.
  
 ### Rebalancing operations
