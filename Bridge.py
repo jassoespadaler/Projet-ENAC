@@ -18,7 +18,7 @@ TruckCapacity = 40                         # Capacity of each repositioning truc
 UseMTZ = True                              # MTZ constraints or DL
 ValidInequalities = True                   # Use of a model with valid inequalities
 InitialNoOfBikesPerStation = 5             # Number of bikes at the beginning in each station
-NumberOfDays = 3                            # Number of days to repeat the simulation (max9)
+NumberOfDays = 3                            # Number of days to repeat the simulation
 TimeLimit = 1e75                              # Maximum seconds to solve the rebalancing model
 
 #Initialise the Rebalancing Operations and simulation classes:
